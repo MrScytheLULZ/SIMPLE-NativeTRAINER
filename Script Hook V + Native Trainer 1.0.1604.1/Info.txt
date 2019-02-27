@@ -1,0 +1,21 @@
+
+/*  https://www.gta5-mods.com/tools/script-hook-v  */
+
+
+Script Hook V is the library that allows to use GTA V script native functions in custom *.asi plugins. Note that it doesn't work in GTA Online, script hook disables custom scripts when player goes in multiplayer. 
+
+This distrib also includes the latest Asi Loader and Native Trainer. 
+
+Installation 
+Copy ScriptHookV.dll to the game's main folder, i.e. where GTA5.exe is located.
+In order to load asi plugins you need to have asi loader installed, you can download it separately or use the latest version that comes with this distrib (dsound.dll).
+This distrib also includes a sample asi plugin - native trainer, if you need a trainer then copy NativeTrainer.asi too.
+
+Native Trainer Controls  
+F4 - activate 
+NUM2/8/4/6 - navigate thru the menus and lists (numlock must be on) 
+NUM5 - select 
+NUM0/BACKSPACE/F4 - back 
+NUM9/3 - use vehicle boost when active 
+NUM+ - use vehicle rockets when active
+View topic on GTAForums »
