@@ -10,3 +10,6 @@ https://www.gta5-mods.com/tools/nativeui-mod-menu-template/download/61692
 https://www.gta5-mods.com/tools/gta-v-script-template-detailed-with-notes/download/62262
 https://www.gta5-mods.com/tools/grand-theft-auto-v-mod-tool-creator
 https://gtaforums.com/topic/809284-net-nativeui/
+
+
+https://www.youtube.com/watch?v=BB-JT0SXXLw
